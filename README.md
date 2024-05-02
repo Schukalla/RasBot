@@ -49,9 +49,18 @@ Conclusion:
 The replacement of the vacuum cleaner robot's control system marks a significant upgrade in terms of functionality, reliability, and performance. By leveraging modern electronic components and innovative design approaches, the revamped control setup promises enhanced efficiency and versatility. The project showcases a practical example of hardware modification and customization to address technical challenges and achieve desired outcomes in robotics applications.
 
 **Software:**
-*Clone the repository:* https://github.com/Schukalla/RasBot.git
-*Install the library for firebase on the raspberry:* https://github.com/AMHD/Connecting-Raspberry-Pi-with-Firebase-Database/blob/master/README.md
-*Configure Firebase:* https://console.firebase.google.com/u/0/?pli=1
+
+*Clone the repository:* 
+
+https://github.com/Schukalla/RasBot.git
+
+*Install the library for firebase on the raspberry:* 
+
+https://github.com/AMHD/Connecting-Raspberry-Pi-with-Firebase-Database/blob/master/README.md
+
+*Configure Firebase:* 
+
+https://console.firebase.google.com/u/0/?pli=1
 
 
 
